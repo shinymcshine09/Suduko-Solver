@@ -14,7 +14,7 @@ A simple Sudoku solver that efficiently finds solutions to a given Sudoku puzzle
 Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/sudoku-solver.git
+git clone https://github.com/shinymcshine09/sudoku-solver.git
 cd sudoku-solver
 ```
 
